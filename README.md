@@ -6,15 +6,17 @@ A utilização de Flexbox é recomenda quando for necessária a organização de
 
 O CSS Grid Layout torna-se mais adequada na situação em que seja necessário a organização em duas direções (linha e coluna).
 
----
 
 Este projeto web promove o entendimento da aplicação das duas técnicas.
 Constitui-se uma página web simples com layout responsivo através de CSS Grid (row - coluns). No "footer" o flexbox atua para organizar os elementos em apenas uma direção.
 
+---
+
+
 ![Ilustração](image.png)
 
 
-Telas Intermediárias (Tablets
+Telas Intermediárias (Tablets)
 
 
 ![Telas Intermediárias (Tablets)](image-1.png)
