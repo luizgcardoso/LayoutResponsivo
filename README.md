@@ -1,4 +1,4 @@
-## Estudo Prático
+## Estudo Prático de Layout Resposivo
 
 Utilização e aplicação eficaz de flexbox e CSS Grid Layout
 
